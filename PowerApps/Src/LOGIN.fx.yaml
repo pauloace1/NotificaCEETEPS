@@ -94,7 +94,7 @@ LOGIN As screen:
         Height: =45
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(238, 204, 204, 1)
-        OnSelect: =Navigate('Cadastre-se_1',ScreenTransition.Fade)
+        OnSelect: =Navigate(Esqueci_Senha,ScreenTransition.Fade)
         RadiusBottomLeft: =40
         RadiusBottomRight: =40
         RadiusTopLeft: =40

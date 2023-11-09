@@ -1,4 +1,4 @@
-"'Cadastre-se_1' As screen":
+Esqueci_Senha As screen:
     Fill: =RGBA(234, 234, 234, 1)
     LoadingSpinnerColor: =RGBA(164, 38, 44, 1)
 

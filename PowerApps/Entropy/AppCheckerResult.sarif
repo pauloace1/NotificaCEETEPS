@@ -565,19 +565,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Cadastre-se_1'.Icon1_3.AccessibleLabel"
+                  "fullyQualifiedName": "Esqueci_Senha.Icon1_3.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Cadastre-se_1'.Icon1_3.AccessibleLabel",
+                  "fullyQualifiedName": "Esqueci_Senha.Icon1_3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Cadastre-se_1",
-                "type": "'Cadastre-se_1'.Icon1_3"
+                "module": "Esqueci_Senha",
+                "type": "Esqueci_Senha.Icon1_3"
               }
             }
           ],
@@ -595,19 +595,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Cadastre-se_1'.Icon1_3.TabIndex"
+                  "fullyQualifiedName": "Esqueci_Senha.Icon1_3.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Cadastre-se_1'.Icon1_3.TabIndex",
+                  "fullyQualifiedName": "Esqueci_Senha.Icon1_3.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "Cadastre-se_1",
-                "type": "'Cadastre-se_1'.Icon1_3"
+                "module": "Esqueci_Senha",
+                "type": "Esqueci_Senha.Icon1_3"
               }
             }
           ],
@@ -625,19 +625,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Cadastre-se_1'.'e-mail_Cadastre_se_1'.AccessibleLabel"
+                  "fullyQualifiedName": "Esqueci_Senha.'e-mail_Cadastre_se_1'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Cadastre-se_1'.'e-mail_Cadastre_se_1'.AccessibleLabel",
+                  "fullyQualifiedName": "Esqueci_Senha.'e-mail_Cadastre_se_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Cadastre-se_1",
-                "type": "'Cadastre-se_1'.'e-mail_Cadastre_se_1'"
+                "module": "Esqueci_Senha",
+                "type": "Esqueci_Senha.'e-mail_Cadastre_se_1'"
               }
             }
           ],
